@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-In the fast-paced taxi booking sector, maximizing revenue is crucial for long-term success and driver satisfaction. Our project aims to leverage data-driven insights to enhance revenue streams for taxi drivers. Specifically, we seek to determine whether payment methods influence fare pricing. Understanding this relationship can empower drivers and companies to optimize strategies and improve profitability.
+In the fast-paced taxi booking sector, maximizing revenue is crucial for long-term success and driver satisfaction. My project aims to leverage data-driven insights to enhance revenue streams for taxi drivers. Specifically, we seek to determine whether payment methods influence fare pricing. Understanding this relationship can empower drivers and companies to optimize strategies and improve profitability.
 
 ## Objective
 
